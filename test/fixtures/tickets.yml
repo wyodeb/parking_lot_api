@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  barcode: MyString
+  issued_at: 2025-09-19 18:16:59
+
+two:
+  barcode: MyString
+  issued_at: 2025-09-19 18:16:59
